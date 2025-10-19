@@ -4,13 +4,13 @@
       flex-direction: row;
       justify-content: center;
 	padding:10px;
+	margin-right:1rem;
 	background-color:#D3D3D3;
     }
    ul{
 
 	   display:inline;
 	display:flex;
-	   margin-right:1rem;
 	   gap:20px;
 	  list-style: none;
    }
